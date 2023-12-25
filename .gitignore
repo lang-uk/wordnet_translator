@@ -1,0 +1,37 @@
+# OSX
+.DS_Store
+
+# Basics
+*.py[cod]
+__pycache__
+*.egg-info
+dist
+
+# Logs
+*.log.*
+*.log
+
+# Vim
+*~
+*.swp
+*.swo
+
+# Virtual environments
+.env
+env
+venv
+.python-version
+# ^^ using pyenv along with pyenv virtualenvs in order to switch between python versions
+
+# Cache
+.cache
+.vscode
+.pytest_cache/
+
+# PyCharm
+.idea/
+
+static
+.env
+
+old_version_wordnet/
